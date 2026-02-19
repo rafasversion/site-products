@@ -1,0 +1,15 @@
+.produtos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+}
+
+.produto img {
+  width: 200px;
+  border-radius: 4px;
+}
+
+.produto .nome {
+  font-weight: 500;
+  margin: 0.5rem 0;
+}

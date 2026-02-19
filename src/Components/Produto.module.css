@@ -1,0 +1,16 @@
+.produtoPage {
+  display: flex;
+  gap: 40px;
+}
+
+.produtoCollumn img {
+  width: 400px;
+  cursor: pointer;
+}
+
+.produtoCollumn span {
+  background-color: rgb(136, 252, 136);
+  color: green;
+  padding: 6px 12px;
+  border-radius: 4px;
+}
